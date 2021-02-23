@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# MeuporgCraft
+> A MMO Minecraft Mod
 
-## Setup
+## Questions ?
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+> Ask me Anything on Discord ! Fyz#0001
