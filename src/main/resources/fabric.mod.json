@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "meuporgcraft",
+  "version": "${version}",
+
+  "name": "MeuporgCraft",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Fyz",
+    "Emma"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FyzRDC/MeuporgCraft"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/meuporgcraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.emmuliette.meuporgcraft.MeuporgCraft"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
